@@ -1,0 +1,26 @@
+<html>
+<head>
+<title> challenge code #3 </title> 
+</head> 
+<body>
+<table width="600" height="60" border="1">
+<tr>
+<td width="300" height="15"><h4>Header 1</h4></td>
+<td width="300" height="15"><h4>Heading 2</h4></td>
+<td width="300" height="15"><h4>Heading 3</h4></td>
+</tr>
+<tr>
+<td width="300" height="15">Cell 1</td>
+<td colspan="2" width="300" height="15">Cell 2</td>
+</tr>
+<tr>
+<td width="300" height="15">Cell 3</td>
+<td colspan="2" width="300" height="15">Cell 4</td>
+</tr>
+<tr>
+<td colspan="2" width="300" height="15">Cell 5</td>
+<td width="300" height="15">Cell 6</td>
+</tr>
+</table>
+</body>
+</html>
